@@ -1,0 +1,3 @@
+Questão 14.7
+Reflexão
+Ao analisar os dados diversos, filtrando por cidade(município), Estado e nota média da melhor escola, percebe-se algumas coisas triviais, como por exemplo, ao analisar banco de dados mais gerais e filtrando para algo mais específico, a tendência é a nota média se distinguir.No entando, algo não trivial se dar pela modelagem e tratamento desses dados, buscando aquilo que se quer responder, que no caso seria, a reflexão da diferença das médias.
